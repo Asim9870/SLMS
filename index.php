@@ -80,7 +80,6 @@
 
       
             <img src="./img/6TH2.png" alt="img not found" style="width: 100%;height:550px; border-radius: 10px">
-        
         <br>
         <h1 style="text-align: center;background-color: #b6d4fe;padding: 5px; "> Popular Courses</h1>
 
