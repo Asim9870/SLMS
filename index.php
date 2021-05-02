@@ -84,14 +84,17 @@
         <h1 style="text-align: center;background-color: #b6d4fe;padding: 5px; "> Popular Courses</h1>
 
 
-
+<figure>
+  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+</figure>
 
         <div class="row">
             <div class="column">
                 <figure>
-  <img src="pic_trulli.jpg" alt="Trulli" style="width:100%">
-  <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
-</figure>
+                    <img src="./img/HTMLimg.jpg" alt="HTML" style="width:80%;height: 300px;;margin-left: 10%;border-radius: 10px">
+                    <figcaption style="text-align: center;padding-top: 10px;"> Learn HTML </figcaption>
+                </figure>
             </div>
             
             <div class="column">
