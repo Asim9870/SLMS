@@ -94,10 +94,12 @@
                     <figcaption style="text-align: center;padding-top: 10px;"> Learn HTML </figcaption>
                 </figure>
             </div>
+            
             <div class="column">
-                <img src="./img/CSSimg.jpg" alt="CSS" style="width:80%;height: 300px;;margin-left: 10%;border-radius: 10px">
+                <figure>
+                <img src="./img/CSSimg.jpg" alt="CSS" style="width:80%;height: 300px;;margin-left: 10%;border-radius: 10px"/>
                 <figcaption style="text-align: center;padding-top: 10px;"> Learn CSS  </figcaption>
-
+            </figure>
             </div>
         </div>
         <div class="row">
@@ -108,12 +110,12 @@
                 </figure>
             </div>
             <div class="column">
+                <figure>
                 <img src="./img/python.jpg" alt="PYTHON" style="width:80%;height: 300px;;margin-left: 10%;border-radius: 10px">
                 <figcaption style="text-align: center;padding-top: 10px;"> Learn PYTHON </figcaption>
-
+              </figure>
             </div>
         </div>
-
         <div id="section1" style="width: 100%;padding: 10%;padding-top: 10px;padding-bottom: 10px;background-color: gray;opacity: 0.8;border-radius:10px">
             <span style="">Feedback</span>
             <textarea placeholder="Your Feedback" style="width: 100%;height: 100px; padding: 10px"></textarea> 
