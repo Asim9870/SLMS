@@ -68,7 +68,7 @@
         <ul>
             <li style="margin-left: 27%"><a class="active" href="#home">Home</a></li>
             <li><a href="#news">My Profile</a></li>
-            <li><a href="https://htmlpreview.github.io/?https://github.com/Asim9870/SLMS/blob/main/cources.php">Courses</a></li>
+            <li><a href="https://htmlpreview.github.io/?https://github.com/Asim9870/SLMS/blob/main/courses.php">Courses</a></li>
             <li><a href="https://htmlpreview.github.io/?https://github.com/Asim9870/SLMS/blob/main/signup.php">Sign Up</a></li>
             <li><a href="https://htmlpreview.github.io/?https://github.com/Asim9870/SLMS/blob/main/login.php">Log in</a></li>
             <li><a href="#section1">Feedback</a></li>
