@@ -77,7 +77,6 @@
             <li ><a href="#home"></a></li>
         </ul>
         <div style="width:100%"> <span style="text-align: center; width: 100%;position: absolute;padding-top: 20px;font-size: 25px"> Welcome To School Learning Management System </span><img src="./img/logo.png" class="logo"/></div>
-
       
             <img src="./img/6TH2.png" alt="img not found" style="width: 100%;height:550px; border-radius: 10px">
         <br>
